@@ -155,6 +155,8 @@
                             <p class="price"><%=_obj.Price_New %> تومان </p>
 
                         <%} %>
+
+
                     </div>
                     <div class="button-group">
                         <button class="btn-primary" type="button" onclick="cart.add('42');"><span>افزودن به سبد</span></button>
